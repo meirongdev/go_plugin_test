@@ -1,1 +1,3 @@
 .history
+**/*.so
+go.work

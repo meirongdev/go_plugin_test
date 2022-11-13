@@ -1,1 +1,7 @@
 go 1.19
+
+use (
+	./go_module
+	./go_plugin
+	./go_server
+)
